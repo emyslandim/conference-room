@@ -1,5 +1,5 @@
 # Conference Room  :computer: :telephone_receiver:
-Criando um sistema de videoconferência similar ao zoom. similar ao zoom.
+Criando um sistema de videoconferência similar ao zoom.
 
 Projeto desenvolvido com base no curso <a href="https://github.com/ErickWendel/semana-javascript-expert02" target="_blank">Semana Javascript Expert</a> do <a href="https://github.com/ErickWendel" target="_blank">ErickWendel</a>.
 
