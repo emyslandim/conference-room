@@ -16,4 +16,4 @@ Projeto desenvolvido com base no curso <a href="https://github.com/ErickWendel/s
   3. Rode o comando <code> npm install</code> dentro da pasta server para baixar as dependências do server.
   4. Rode o comando <code> npm start</code> para inicializar ambos.
 
-Feito com 💜 por <a href="https://github.com/emyslandim target="_blank">emyslandim</a>.
+Feito com 💜 por <a href="https://github.com/emyslandim" target="_blank">emyslandim</a>.
